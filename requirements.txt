@@ -1,0 +1,11 @@
+langchain
+PyPDF2
+streamlit
+openai
+faiss-cpu
+python-dotenv
+tiktoken
+nltk 
+rouge-score
+PyPDF2 
+langchain-openai
